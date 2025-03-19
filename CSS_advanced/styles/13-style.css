@@ -12,7 +12,7 @@ body {
 
 }
 
-a[href]:link {
+a:link {
     color: var(--text-color);
     text-decoration: none;
 }
