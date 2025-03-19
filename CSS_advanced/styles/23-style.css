@@ -168,7 +168,7 @@ ul.row {
 }
 
 .footer-adress {
-    color: var(--color-black);
+    color: var(--text-color);
 }
 
 .social-link {
@@ -177,7 +177,7 @@ ul.row {
 }
 
 .social-link svg {
-    fill: var(--color-black)
+    fill: var(--text-color);
 }
 
 
