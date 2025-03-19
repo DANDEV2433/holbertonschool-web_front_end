@@ -17,11 +17,6 @@ a {
     text-decoration: none;
 }
 
-a[href] {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
 a[href]:visited {
     font-style: italic;
 }
